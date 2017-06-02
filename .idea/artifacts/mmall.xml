@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="mmall">
-    <output-path>D:/software/tomcat/webapps/mylibrary</output-path>
-    <root id="root" />
-  </artifact>
-</component>
